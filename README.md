@@ -382,6 +382,7 @@
 - [一个获取 stripe 高权重外链（DR93）的方法](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
 - [关键词分析网站](https://ahrefs.com/zh/keywords-explorer)
 - [我跑通了全球收付款的流程](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
+- [OPC 情报站](https://opc-radar.pages.dev/) - 一人公司（OPC）资讯聚合站，收录 82 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行
 
 ### 产品发布
 
