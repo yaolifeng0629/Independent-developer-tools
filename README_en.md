@@ -374,6 +374,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [A Method to Get High-Weight Stripe Backlinks (DR93)](https://m.okjike.com/originalPosts/66df00babe1b0f6ab7a4f8d7)
 - [Keyword Analysis Website](https://ahrefs.com/zh/keywords-explorer)
 - [I Successfully Ran the Global Payment Process](https://mp.weixin.qq.com/s/y_XRFa8pzkgV-GqttSotqw)
+- [OPC Radar](https://opc-radar.pages.dev/) - A vertical knowledge hub for one-person companies (OPC): 82 curated entries on policy updates, startup cases and ecosystem tools, with 9-category filtering, full-text search and a trending board. Pure static, no signup required.
 
 ### Product Release
 
