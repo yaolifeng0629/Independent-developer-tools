@@ -405,6 +405,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### AI Resources
 
+- [Remio](https://remio.ai/) - (Desktop app/local-first) AI memory and knowledge base tool that parses files, webpages, recordings, emails, messages, images, and notes into local indexes/vectors, helping indie developers and agents retrieve focused project/user context instead of repeatedly grepping folders or loading whole documents into prompts; CLI/agent skill workflows require the desktop client.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0, open-source/self-hosted) Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 other CLI coding agents in parallel git worktrees. Deterministic Python scheduler, file-based state, MCP server, quality gates, cost tracking.
 
 ### Other Tools

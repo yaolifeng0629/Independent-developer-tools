@@ -418,6 +418,7 @@
 
 ### AI 资源
 
+- [Remio](https://remio.ai/) - (桌面客户端/本地优先) AI 记忆与知识库工具，可解析文件、网页、录音、邮件、消息、图片和笔记，建立本地索引与向量，帮助独立开发者和 Agent 快速检索项目/用户上下文，减少反复 grep、扫文件或整篇塞进 Prompt 的 token 与成本；CLI/Agent Skill 需配合桌面客户端使用。
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) - (免费开源/自部署) AI Agent 编排平台，并行运行 Claude Code、Codex CLI、Gemini CLI、Aider、OpenCode，内置 Kanban 任务管理 + Git worktree 隔离 + MCP Server。支持 GitHub/GitLab/**Gitee**，BYOK 模式用户自带 API key 无平台费。
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - (Apache 2.0 开源/自部署) 多 Agent 编排器，协调 Claude Code、Codex CLI、Gemini CLI、OpenHands、Cursor、Aider 等 37 个 CLI 编程 Agent 在并行 git worktree 中工作。确定性 Python 调度器（编排零 LLM token），文件状态、MCP server、质量门、成本追踪。
 
