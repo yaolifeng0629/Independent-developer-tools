@@ -344,6 +344,7 @@
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的开源 macOS 屏幕录制工具
 - [screenity](https://github.com/alyssaxuu/screenity) - 一款开源的屏幕录制和标注工具，提供隐私保护且无任何使用限制
 - [focusee](https://gemoo.com/focusee/) - 一个一站式平台，简化了视频的创建、编辑和分享流程，让每个人都能在几分钟内制作视频并传播自己的创意
+- [ExcaliRec](https://excalirec.com/) - 免费的浏览器白板录屏工具，面向 Excalidraw 风格讲解视频，支持自动聚焦缩放和本地录制，无需安装或注册
 
 ### 短链或长链
 

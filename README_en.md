@@ -336,6 +336,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A multifunctional, lightweight, high-performance open-source macOS screen recording tool.
 - [screenity](https://github.com/alyssaxuu/screenity) - An open-source screen recording and annotation tool, privacy-protected with no usage restrictions.
 - [focusee](https://gemoo.com/focusee/) - A one-stop platform simplifying video creation, editing, and sharing, allowing everyone to create and share their ideas in minutes.
+- [ExcaliRec](https://excalirec.com/) - A free browser-based whiteboard recorder for Excalidraw-style explainers, with auto-focus zoom and local recording; no install or sign-up required.
 
 ### URL Shortener
 
