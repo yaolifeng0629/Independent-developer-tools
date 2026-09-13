@@ -409,6 +409,7 @@ Collect the latest and most practical free tools and resources in the field of i
 
 ### Other Tools
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Privacy-friendly Windows/macOS desktop overlay for Codex quota, reset time, and reset credits.
 - [Black Apple Software Park](https://mackext.com/)
 - [Screenshot Tool](https://www.snipaste.com/)
 - [Screenshot Tool](https://pixpinapp.com/) - Solves Snipaste's long screenshot and GIF issues.

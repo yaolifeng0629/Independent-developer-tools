@@ -423,6 +423,7 @@
 
 ### 其他工具
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - 面向 Windows 和 macOS 的隐私友好 Codex 桌面配额悬浮层，显示配额、重置时间和重置额度。
 - [黑苹果软件园](https://mackext.com/)
 - [截图工具](https://www.snipaste.com/)
 - [截图工具](https://pixpinapp.com/) - 解决了 Snipaste 长截图，gif 图问题
