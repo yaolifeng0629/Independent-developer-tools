@@ -242,6 +242,7 @@
 
 ### 部署与托管
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 - [FlyPloy](https://flyploy.com/en) - (免费/付费) 简单强大的现代化应用部署平台，支持 Docker 和 Kubernetes，助力开发者实现全球一键快速部署。
 - [Vercel](https://vercel.com/dashboard) - 首选，国内大部分访问不了
 - [阿里云](https://www.aliyun.com/minisite/goods) - 国内云
