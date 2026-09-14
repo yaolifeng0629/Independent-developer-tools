@@ -331,6 +331,7 @@
 
 - [Tinypng](https://tinypng.com/) - 图片压缩工具
 - [tiny-img](https://tiny-img.com/webp/) - PNG、JPG 格式压缩并转换为 WEBP
+- [PicPrepper](https://picprepper.com/bilder-komprimieren) - 在浏览器本地压缩、调整尺寸并转换 JPG、PNG 和 WebP；无需账户，每个浏览器会话可免费下载 5 次。
 - [在线 AI 抠图工具](https://removebg.one/)
 - [Upscayl Upscayl](https://github.com/upscayl/upscayl) - 免费开源 AI 图像放大器
 - [video 转 gif](https://ezgif.com/video-to-gif)
